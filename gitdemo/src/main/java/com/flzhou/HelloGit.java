@@ -5,5 +5,6 @@ public class HelloGit {
         System.out.println("第一个git");
         System.out.println("第二个git");
         System.out.println("创建分支之后提交git到新建的dev分支");
+        System.out.println("解决冲突1");
     }
 }
